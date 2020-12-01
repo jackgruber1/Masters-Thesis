@@ -1,4 +1,10 @@
-# Masters-Thesis
+# Masters-Thesis 
 
 Master's Thesis on the evolution of East Asian Trade using qualitative input-output and network analysis.
 All code regarding to the theiss can be found on this repositories. It mainly consists of code for each of the three years that will be analyzed. 
+
+Abstract:
+
+China’s Evolving Role in Asian Trade: A Network Approach
+
+In this paper, network analysis is used to examine the changing role that Chinahas played in the years 1995, 2005, and 2014.  A network is constructed from a WorldInput-Output Matrix consisting of 43 countries and 56 industries.  This matrix istransformed into a technology matrix where a filter is used to turn this matrix intoa binary matrix.  This matrix, in turn, is used to form a unweighted and directednetwork where each vertex represents a country and each edge represents a significantcommercial  relation  that  exceed  the  world  average.   Network  centrality  measuressuch as indegree, outdegree, betweeness centrality, hub index, and authority indexare derived from this network and used to trace the role that China, Japan, SouthKorea,  and  Taiwan  have  played  in  World  Trade,  and  see  if  there  is  evidence  ofinteraction between these.  Of the network measures used in this unweighted matrix,it is found that export-related measures show a strong positive correlation with GDPand import related measures have a negative correlation with GDP. It is observedthat China has a large increase in all centrality measures across these years, whilethe centrality measures of the other East Asian nations remain largely unchanged.This, in conjunction with the increase in density and diameter of the World TradeNetwork  as  a  whole,  lead  us  to  believe  that  even  though  China  has  made  hugegains from trade through an export-led approach in the preceding decades with noevidence  of  displacement  or  “crowding  out”  of  other  developed  economies  in  theEast Asian region.  This work presents that network analysis can present a viableand useful methodology to not only examine the structure of World Trade, but toexamine the patterns of trade across time.  Furthermore, it puts into context China’sexport-led approach to development and qualitatively demonstrates the huge impactthis has had in China’s place in World Trade and the world economy.
